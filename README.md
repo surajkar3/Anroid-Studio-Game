@@ -6,4 +6,4 @@ In order to run the game you need to install Android SDK21 and there are no exte
 You can install Android Studio here https://developer.android.com/studio
 
 
-Video of walkthrough of game can be found here https://youtu.be/SLWpXxpGETs
+Video of walkthrough of game can be found here https://youtu.be/k9z1fbThy28
