@@ -4,3 +4,6 @@ The game was built in Android Studio with Kotlin
 To run the game you need to open the MainActivity file and hit the green play symbol to run the game and execute.
 In order to run the game you need to install Android SDK21 and there are no external dependencies or shell scripts.
 You can install Android Studio here https://developer.android.com/studio
+
+
+Video of walkthrough of game can be found here https://youtu.be/SLWpXxpGETs
